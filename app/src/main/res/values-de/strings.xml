@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Arcadyan/EasyBox WPA Keygen</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="descr_author">by dizzeerazcal 2015</string>
+    <string name="descr_clear">Löschen</string>
+    <string name="descr_mac">MAC:</string>
+    <string name="descr_submit">Senden</string>
+    <string name="hello_world">Hallo Welt!</string>
+    <string name="info_scanning">Suche Wireless APs</string>
+    <string name="legal_text">Nur zur Verwendung mit eigener Hardware !</string>
+    <string name="select_wifi_text">Ziel AP auswählen</string>
+    <string name="title_activity_wifi_scan">WiFi Scan</string>
+</resources>
